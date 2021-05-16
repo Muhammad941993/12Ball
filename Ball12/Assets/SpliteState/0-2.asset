@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bcdaeadb2c927f4093d0122ad59578c, type: 3}
+  m_Name: 0-2
+  m_EditorClassIdentifier: 
+  FirstHistory: {fileID: 0}
+  SecondHistory: {fileID: 0}
+  ThirdHistory: {fileID: 0}
+  CaseName: Case-2
+  Balls:
+  - {x: 0, y: 0, z: 0}
+  - {x: -2.5674028, y: -0.3915012, z: 0}
+  - {x: -1.9416108, y: -0.39155316, z: 0}
+  - {x: 2.471311, y: -0.40969038, z: 0}
+  - {x: 1.9634956, y: -0.38954473, z: 0}
+  - {x: -3.0748816, y: -0.3870082, z: 0}
+  - {x: -3.5, y: -4.5790043, z: 0}
+  - {x: -2.5, y: -4.5790043, z: 0}
+  - {x: -1.5, y: -4.5790043, z: 0}
+  - {x: 3.1631334, y: -0.40404272, z: 0}
+  - {x: 0.5, y: -4.5790043, z: 0}
+  - {x: 1.5, y: -4.5790043, z: 0}
+  - {x: 2.5, y: -4.5790043, z: 0}
+  SpliteBalanceNumber: 3
+  BalanceNumber: 1
+  BallInLeftHandNumber: 010000000200000005000000000000000000000000000000
+  BallInRightHandNumber: 030000000400000009000000000000000000000000000000
+  BallLeftInGround: 0600000007000000080000000a0000000b0000000c00000000000000000000000000000000000000000000000000000000000000
+  Solved: 1
+  LeftBallCollect: {fileID: 3302538572010692448, guid: ba2e0072a5dfca745b30ae1c3b9e20e8,
+    type: 3}
+  RightBallColect: {fileID: 944046799592271664, guid: 1ea64b9035764a04d973b5705e355027,
+    type: 3}
+  NextBalance:
+  - {fileID: 11400000, guid: df349c71bf8947641966de3d15cf8460, type: 2}
+  - {fileID: 11400000, guid: beef255d1a88be544bb40f27754845c2, type: 2}
+  - {fileID: 11400000, guid: fa7dced1cf7792f4cbc09a8ca14618a2, type: 2}
+  BallState:
+  - {fileID: 11400000, guid: 3d52f241b88722d4992a75cbc2eeab83, type: 2}
+  - {fileID: 11400000, guid: d4bcf8c5078e4714c90903b4fd91eed9, type: 2}
+  - {fileID: 11400000, guid: 400ead051e1a549409de5aa142a23683, type: 2}
